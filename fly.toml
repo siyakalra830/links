@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for still-waterfall-2741 on 2023-09-30T20:50:13Z
+# fly.toml app configuration file generated for falling-darkness-1056 on 2023-10-02T14:58:51Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "still-waterfall-2741"
+app = "falling-darkness-1056"
 primary_region = "ord"
 
 [build]
